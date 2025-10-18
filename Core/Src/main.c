@@ -26,6 +26,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
+/*This is a test if the version control works : TEST 01*/
 
 /* USER CODE END Includes */
 
