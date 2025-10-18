@@ -1,0 +1,9 @@
+/Debug/
+/Release/
+*.log
+*.launch
+*.bin
+*.hex
+*.map
+*.o
+*.d
